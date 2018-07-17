@@ -1,1 +1,1 @@
-print('hello phthon & git')
+print('hello phthon & git rock')
